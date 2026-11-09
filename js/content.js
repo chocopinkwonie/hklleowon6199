@@ -1,4 +1,3 @@
-```js
 window.C={
   moods:[
     ["🥱","cú đêm buồn ngủ","ơ kìa chị ơi, pin còn 1% rồi đúng không 😭 đi ngủ đi ạ, leowon không chạy mất đâu... à mà moment mới thì em không hứa nha! hôm nay cứ ăn ngon, ngủ kỹ, làm công chúa lười biếng thôi!"],
@@ -94,4 +93,3 @@ window.C={
     "6199 mãi đỉnh, mãi keo, mãi là chân ái của shipdom 61 🌈"
   ]
 };
-```
