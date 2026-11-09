@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="vi"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>Gửi Linh 🎀</title>
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700&family=Playfair+Display:ital,wght@0,600;1,500&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="css/style.css"></head>
+<body>
+<div id="night" aria-hidden="true"></div><div id="bg" aria-hidden="true"><i class="ss"></i><i class="ss s2"></i></div>
+<button id="moon" aria-label="Mặt trăng bí mật">🌙</button>
+<div id="audio"><button id="music" class="btn" aria-pressed="false">♪ Nhạc: TẮT</button><input id="vol" type="range" min="0" max="1" step=".05" value=".4" aria-label="Âm lượng"></div>
+<div id="fx" aria-hidden="true"></div><div id="toast" role="status" aria-live="polite"></div>
+<main>
+<section class="screen on" id="s1"><p class="tag">SINH NHẬT TUỔI 24 ♡</p><h1>Chị <span class="nm" id="name">Khánh Linh</span> ơi!</h1>
+<button class="env" id="env" aria-label="Mở phong bì"><span class="bd"></span><span class="pp">💌</span><span class="fl"></span><span class="st">💗</span></button>
+<p>Psst... có người chuẩn bị cho chị một bất ngờ nhỏ nè.</p><p><b>Hôm nay là ngày của chị đó!</b></p>
+<p>Em làm một góc internet bé xíu chỉ dành riêng cho chị. Mong là chị cười toe nha!</p>
+<button class="btn" id="open1">MỞ BẤT NGỜ NHỎ CỦA CHỊ ♡</button></section>
+
+<section class="screen" id="s2"><p>Trước khi bắt đầu, check nhanh cái này đã...</p><h2>Hôm nay chị 24 tuổi thấy sao rồi? 🎀</h2>
+<div class="moods" id="moods"></div><div class="bubble hide" id="bubble" aria-live="polite"></div>
+<button class="btn hide" data-go="3" id="n2">QUA BƯỚC TIẾP NÈ →</button></section>
+
+<section class="screen" id="s3"><h2>KHOANNN ĐÃ! 🎂</h2><p>Làm gì có sinh nhật nào mà thiếu bánh kem!</p><p>Nhắm mắt lại, ước một điều rồi thổi nến nha!</p>
+<div class="cake" id="cake"><button class="candle" style="left:20%" aria-label="Thổi nến số 1"></button><button class="candle" style="left:47%" aria-label="Thổi nến số 2"></button><button class="candle" style="left:74%" aria-label="Thổi nến số 3"></button><i class="t2"></i><i class="t1"></i></div>
+<div id="wish" class="hide"><h2>Mong mọi điều ước nhỏ của chị đều thành sự thật.</h2><p>Chị xứng đáng có một năm đầy những bất ngờ đẹp. ♡</p><button class="btn" data-go="4">ƯỚC XONG RỒI! ♡</button></div></section>
+
+<section class="screen" id="s4"><p>Em không gửi bánh kem thật cho chị được...</p><h2>Nên em chuẩn bị ba món quà ảo bé xíu nè!</h2><p>Chị thích hộp nào thì mở hộp đó nha. 🎁</p>
+<div class="gifts" id="gifts"></div>
+<div id="giftsdone" class="hide"><h2>CHỊ MỞ HẾT BA HỘP RỒI!</h2><p>Gom hạnh phúc đỉnh như dân chuyên nghiệp luôn. ♡</p><button class="btn" data-go="5">CÒN MỘT ĐIỀU NỮA...</button></div>
+<div id="gc" class="ov hide"><div class="card" role="dialog" aria-modal="true"><h2 id="gt"></h2><p id="gx"></p><button class="btn" id="gclose">ĐÓNG</button></div></div></section>
+
+<section class="screen" id="s5"><h2>Nè chị <span class="nm">Linh</span>, đến giờ nói sự thật rồi nha.</h2><p>Chị sẵn sàng nhận lời khen chưa? Mà không sẵn sàng cũng phải nhận. HEHE. 😌</p>
+<button class="btn" id="tell">KHEN EM ĐI!</button><div id="cards" aria-live="polite"></div>
+<div id="more" class="hide"><p>Thôi thôi, chắc khen chị đủ rồi...</p><p><b>ĐÙA ĐÓ. CHỊ XỨNG ĐÁNG ĐƯỢC KHEN NHIỀU HƠN. 💗</b></p><button class="btn" data-go="6">ĐỌC THƯ NHỎ NÈ ♡</button></div></section>
+
+<section class="screen" id="s6"><div id="pre"><p>Đây là lá thư nhỏ em muốn để lại cho chị.</p><p>Lần này không game, không câu hỏi ngớ ngẩn.</p><p>Chỉ có vài lời từ em gửi chị thôi. ♡</p><button class="btn" id="openL">MỞ THƯ</button></div>
+<article id="letter" class="hide"></article><button class="btn hide" id="closeL">ĐÓNG THƯ</button><button class="btn hide" data-go="7" id="lastBtn">LỜI CHÚC CUỐI</button></section>
+
+<section class="screen" id="s7"><div id="lines" class="big" aria-live="polite"></div>
+<div id="final" class="hide"><h1>HAPPY BIRTHDAY 24!</h1><h2><span class="nm">Hoàng Khánh Linh</span> 🎀</h2><p>Chúc chị một tuổi 24 thật dịu dàng, hôm nay và mãi về sau.</p><p>Chúc 6199 bất tử, Leowon mãi gay! 🏳️‍🌈♡</p>
+<div class="row"><button class="btn" id="replay">XEM LẠI TỪ ĐẦU ↻</button><button class="btn" id="heart">GỬI TIM NHỎ ♡</button></div></div></section>
+</main>
+<script src="js/content.js"></script><script src="js/main.js"></script></body></html>

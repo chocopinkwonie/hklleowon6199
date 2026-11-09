@@ -1,0 +1,18 @@
+window.C={
+moods:[["🥱","Cú đêm buồn ngủ","Ôi thương, buồn ngủ hả! Hôm nay được phép lười, ăn ngon và không phải lo gì hết nha!"],
+["🥰","Vui như Tết","ÚI DỒI ÔI! Cứ vui như vậy nha, chị vui là cả shipdom 61 vui theo á!"],
+["🐣","Hơi bị lầy","ĐÚNG GU! Lầy là một nét tính cách toàn thời gian và em ủng hộ hết mình!"],
+["🥺","Cần ôm cái","Gửi chị cái ôm thiệt chặt luôn nè! Coi như được ôm rồi nha. ♡"]],
+gifts:[["Một chút vui vẻ","Mong chị luôn có lý do để cười, kể cả những ngày bình thường nhất. Và mong niềm vui cứ bất ngờ ập tới, kiểu như Leowon tự nhiên có khoảnh khắc mới vậy đó!","#f6a6c8"],
+["Một lời nhắc nhỏ","Nè, nhớ tự khen mình một chút nha. Chị đang lớn lên, đang học hỏi và đã cố gắng hết sức rồi. Vậy là đáng tự hào lắm rồi đó.","#b9a3dc"],
+["Một điều ước nhỏ","Chúc chị gặp nhiều người tử tế, đi nhiều nơi đẹp, có thật nhiều cơ hội và những kỷ niệm làm tim đầy ắp. Và chúc shipdom 61 luôn có thật nhiều cơm ngon cho chị ăn! 🍚","#ffd0a8"]],
+compliments:["Chị là phiên bản giới hạn đó. Tìm hoài không ra bản sao nào luôn. ♡","Có chị, góc internet nhỏ này sáng hơn hẳn một chút.","Nhắc nhẹ: chị là thông báo em thích nhất, chỉ sau thông báo có cảnh mới của Leowon thôi. HEHE","Chị xứng đáng 100% hạnh phúc, 0% drama và đồ ăn ngon không giới hạn. (Drama của Leowon thì ngoại lệ nha 😌)","Em nói thiệt, gu ship của chị là gu ship đỉnh nhất. Không cãi nha. 🚨","Chị không cần hoàn hảo đâu. Cứ là chị thôi là đủ rồi."],
+letter:["Gửi Hoàng Khánh Linh, ♡","Trước hết: HAPPY BIRTHDAYYYYY CHỊ ƠIIII! Chúc mừng chị bước sang tuổi 24 nha! 🎂🎀","Hôm nay em gào lên giùm chị luôn: sinh nhật là ngày của chị, nên chị muốn ăn gì, ngủ nướng bao lâu, cày lại mấy khoảnh khắc Leowon bao nhiêu lần cũng được hết!","Tuy tụi mình quen nhau qua cái màn hình nhỏ xíu, em vẫn muốn làm một thứ gì đó thiệt đặc biệt cho ngày này. Chỉ là một trang web bé tí thôi, nhưng mong là nó làm chị cười toe toét.","Cảm ơn chị vì đã cùng em ở shipdom 61: cùng gào thét, cùng hóng, cùng đu cái thuyền không bao giờ chìm. Có chị đu cùng là em thấy thuyền vững hẳn ra!","Sang tuổi 24, em chúc chị có thêm thật nhiều khoảnh khắc đẹp, gặp thêm nhiều người tốt, khám phá nhiều điều mới và hoàn thành hết những mục tiêu chị đang mơ ước.","Và nhớ chăm sóc bản thân nha. Mệt thì nghỉ, có thành tích nhỏ cũng phải ăn mừng, cười thiệt nhiều và đừng bao giờ ép mình phải biết hết mọi thứ.","Chúc 6199 luôn là sự thật hiển nhiên, chúc Leowon có thật nhiều cảnh để tụi mình ăn no nê, và chúc Leowon mãi gay! 🏳️‍🌈💗","Chị xứng đáng với sự tử tế, hạnh phúc và thật nhiều điều tốt đẹp trên đời này.","Cứ tiếp tục tỏa sáng nha, ngôi sao nhỏ. ✨","Gửi chị cái ôm thiệt chặt,","Đứa em cùng shipdom 61 của chị ♡"],
+last:["Trước khi chị đi...","Còn một lời chúc cuối nè, chị Linh ơi.","Tuổi 24 nhiều nụ cười hơn.","Nhiều chuyến đi hơn.","Nhiều kỷ niệm đẹp hơn.","Nhiều lý do để hạnh phúc hơn.","Nhiều cảnh Leowon hơn nữa!","6199 mãi bên nhau!","Và Leowon mãi gay! 🏳️‍🌈"],
+stars:["Ước đi chị Linh ơi! ✨","Hôm nay là ngày của chị ♡","Lấp lánh lên nào, công chúa sinh nhật!","Tỏa sáng nha, ngôi sao nhỏ ⭐","Điều tốt đẹp đang trên đường tới 💫","6199 mãi đỉnh 🌈"],
+moon:"Mệt thì nghỉ nha, ngôi sao nhỏ.",
+secret:"CHỊ TÌM RA BÍ MẬT RỒI! Hôm nay chị đặc biệt hơn mọi ngày. Mà thôi, ngày nào cũng đặc biệt. HEHE. ♡",
+sent:"Một trái tim nhỏ, bay tận đến chỗ chị nè. 💗",
+scr:{1:[7,2],2:[1,3],3:[9,10],4:[8,5],6:[4,6]},
+cap:["","Đội túi giấy vẫn cute 🍟","Cute quá đáng 📸","Paris có hai đứa nè 🗼","Nhìn nhau thôi cũng đủ ăn cơm 🍚","Nắm tay rồi đó mọi người 💫","Khoảnh khắc làm tim rụng ♡","Báo động: ôm nhau 🚨","Nháy mắt cái là xỉu 😉","Khoác vai, em xin phép ngất 🥹","Hai đứa nhỏ đáng yêu quá ✨"],
+pt:["Úi, cặp nhà em! 📸","Nhìn nụ cười này đi ♡","Lưu vào album ngay 💗","Dễ thương xỉu luôn! ✨","6199 mãi đỉnh 🌈"]};
