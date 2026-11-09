@@ -41,17 +41,17 @@ window.C={
     "em còn một vài điều muốn gửi chị linh nè.",
     "tuổi 24 nhiều nụ cười hơn,",
     "nhiều chuyến đi hơn,",
-    "nhiều kỷ niệm đẹp hơn,",
+    "nhiều tiền hơn lương triệu đô không nợ lương",
     "nhiều lý do để hạnh phúc hơn,",
     "nhiều moment leowon hơn nữa! càng nhiều càng tốt, không giới hạn!",
-    "6199 mãi bên nhau! thuyền này không có nút quay đầu!",
+    "6199 mãi bên nhau! thuyền này không cần shipper!!",
     "và tất nhiên... leowon mãi gay! 🏳️‍🌈"
   ],
 
   stars:[
     "ước đi chị linh ơi, vũ trụ đang online! ✨",
     "hôm nay chị là nhân vật chính, người khác xin phép làm cameo ♡",
-    "lấp lánh lên nào công chúa, vương quốc đang chờ chị!",
+    "lấp lánh lên nào công chúa, leowon đang chờ chị!",
     "tỏa sáng nha ngôi sao nhỏ, nhớ đừng quên ăn tối ⭐",
     "điều tốt đẹp đang trên đường tới, shipper sắp gọi rồi đó 💫",
     "6199 mãi đỉnh, không cần tranh luận, miễn tiếp khách phản đối 🌈"
